@@ -259,7 +259,7 @@
       ],
       "sequence": [
         {
-          "input": "QCF,>,p_b6",
+          "input": "QCF,arrow,p_b6",
           "move": "SF3/Hadouken Jab"
         }
       ]
@@ -280,7 +280,7 @@
       ],
       "sequence": [
         {
-          "input": "DP,>,p_b6",
+          "input": "DP,arrow,p_b6",
           "move": "Ken Reencor Style Shoryuken Jab"
         }
       ]
@@ -301,7 +301,7 @@
       ],
       "sequence": [
         {
-          "input": "QCF,>,QCF,>,p",
+          "input": "QCF,arrow,QCF,arrow,p",
           "move": "SF3/Hadouken Shinku"
         }
       ]
@@ -407,7 +407,7 @@
           "move": "Ken Reencor Style Crouch Forward"
         },
         {
-          "input": "QCB,>,p_b2",
+          "input": "QCB,arrow,p_b2",
           "move": "Ken Reencor Style Tatsumaki Forward"
         }
       ]
@@ -432,7 +432,7 @@
           "move": "Ken Reencor Style Stand Fierce"
         },
         {
-          "input": "QCF,>,p_b3",
+          "input": "QCF,arrow,p_b3",
           "move": "Ken Reencor Style Joudan Sokutogeri Short"
         }
       ]
@@ -493,7 +493,7 @@
           "move": "Ken Reencor Style Crouch Strong"
         },
         {
-          "input": "DP,>,p_b5",
+          "input": "DP,arrow,p_b5",
           "move": "Ken Reencor Style Shoryuken Strong"
         }
       ]
@@ -518,11 +518,11 @@
           "move": "Ken Reencor Style Crouch Forward"
         },
         {
-          "input": "QCF,>,k,+,k",
+          "input": "QCF,arrow,k,+,k",
           "move": "Ken Reencor Style Joudan Sokutogeri EX"
         },
         {
-          "input": "QCB,>,p_b1",
+          "input": "QCB,arrow,p_b1",
           "move": "Ken Reencor Style Tatsumaki Roundhouse"
         }
       ]
@@ -567,7 +567,7 @@
           "move": "Ken Reencor Style Stand Fierce"
         },
         {
-          "input": "QCF,>,p,+,p",
+          "input": "QCF,arrow,p,+,p",
           "move": "SF3/Hadouken EX"
         }
       ]
@@ -597,7 +597,7 @@
           "move": "Ken Reencor Style Crouch Forward"
         },
         {
-          "input": "DP,>,p_b4",
+          "input": "DP,arrow,p_b4",
           "move": "Ken Reencor Style Shoryuken Fierce"
         },
         {
@@ -613,11 +613,11 @@
         },
         {
           "comment": "(Hit Airborne) ",
-          "input": "QCB,>,k,+,k",
+          "input": "QCB,arrow,k,+,k",
           "move": "Ken Reencor Style Aerial Ex Tatsumaki"
         },
         {
-          "input": "QCF,>,QCF,>,p",
+          "input": "QCF,arrow,QCF,arrow,p",
           "move": "SF3/Hadouken Shinku"
         }
       ]
