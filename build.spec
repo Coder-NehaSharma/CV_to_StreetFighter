@@ -20,7 +20,8 @@ a = Analysis(
         'sklearn.neighbors._typedefs',
         'sklearn.utils._cython_blas',
         'sklearn.neighbors._quad_tree',
-        'sklearn.tree._utils'
+        'sklearn.tree._utils',
+        'pandas'
     ],
     hookspath=[],
     hooksconfig={},
