@@ -63,7 +63,7 @@ coverage.xml
 *.pytest_cache/
 
 # PyInstaller
-*.spec
+
 dist/
 build/
 
